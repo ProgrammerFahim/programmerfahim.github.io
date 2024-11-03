@@ -1,0 +1,21 @@
+project:
+  type: website
+
+website:
+  title: "Fahim Faisal"
+  navbar:
+    right:
+      - about.qmd
+      - icon: github
+        href: https://github.com/ProgrammerFahim
+      - icon: twitter
+        href: https://x.com/ProgrammerFahim
+format:
+  html:
+    theme:
+      light: cosmo
+      dark: darkly
+    css: styles.css
+
+
+

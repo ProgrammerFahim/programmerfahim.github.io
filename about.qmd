@@ -1,0 +1,20 @@
+---
+title: "About"
+image: profile.webp
+about:
+  template: jolla
+  links:
+    - icon: twitter
+      text: Twitter
+      href: https://x.com/ProgrammerFahim
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/ffaisalprogrammer/
+    - icon: github
+      text: Github
+      href: https://github.com/ProgrammerFahim
+
+---
+
+I’m currently interested in working on **multi-modal models** and more broadly to learn how language and other modalities
+such as audio and video together aid in **learning representations**.
